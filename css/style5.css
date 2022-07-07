@@ -756,12 +756,12 @@ section.resume-section .resume-item .resume-date {
 .rafi{
     margin-left:300px;
     margin-top:-170px;
-    width:400px;
+    width:300px;
   }
 .rafi2{
     margin-left:600px;
     margin-top:-170px;
-    width:400px;
+    width:300px;
   }
 @media (max-width: 767px) {
   #contact-p2 .con-form input {
